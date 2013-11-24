@@ -58,11 +58,9 @@ Note that anyone who purchases Mastercoins also receives the same number of “T
 
 Initially, the only valid Mastercoin transaction will be a “simple transfer” (defined later in this document), but the additional features described in this document will also become valid in the future (at specific pre-announced block milestones) once they are fully tested.
 
-## Reward DAPcoins
+## Developer DAPcoins
 
-For every 10 Mastercoins sold, an additional “reward Mastercoin” will also be created, which will be awarded to the Exodus Address slowly over the following years. These delayed Mastercoins will ensure that we have plenty of motivation to increase the value of Mastercoins by completing the features desired by users. The reward will be structured so that we receive 50% of the reward by one year after the initial sale, 75% by a year later, 87.5% by a year later, and so on:
-
-![Reward Mastercoins](https://raw.github.com/mastercoin-MSC/spec/master/images/reward-mastercoin-formula.png)
+For every 10 DAPcoins sold, an additional “Developer DAPcoins” will also be created, which will be awarded to the Exodus Address slowly over the following years. These delayed Mastercoins will ensure that we have plenty of motivation to increase the value of DAPcoin by completing the features desired by users. The reward will be structured so that we receive 50% of the reward by one year after the initial sale, 75% by a year later, 87.5% by a year later, and so on:
 
 ## Transferring DAPcoins
 
