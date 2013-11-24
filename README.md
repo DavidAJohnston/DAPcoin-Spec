@@ -2,8 +2,6 @@ DAPcoin-Spec
 ============
 
 DAPcoin (Decentralized Applications and Protocols) Complete Specification
-
-Distributed Appscoin Whitepaper and Complete Specification
 =================================
 
 vs0.1 (Basic Version)
