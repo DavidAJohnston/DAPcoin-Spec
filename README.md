@@ -13,6 +13,7 @@ DavidJohnstonCEO (djohnston at gmail dot com)
 We claim that
 
 (David Build these Claims)
+* There is a [new oncoming wave of Decentralized Applications](https://docs.google.com/document/d/1SQhEAlkQMMzQSup0P2Iugb6JeNmD7GPC-HjiN3G3P-Y/edit), that is going to change the way people come together and raise money for various purposes. This is the new, decentralized, open equivalent to a company or corporation.
 * Will financially benefit the entire DistributedAppscoin user community, including those who don’t use the type III Decentralized Apps protocol layers.
 * Will provide initial funds to hire developers to build upon software and ongoing funds to pay for maintenance of this software.
 * Will richly reward early adopters of the type III Decentralized Apps protocol and tokens, in proportion to how successful it is.
